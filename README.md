@@ -1,2 +1,2 @@
-# cisco
-Cisco
+Cisco configs
+====
